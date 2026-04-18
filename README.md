@@ -77,11 +77,17 @@ Amazon_Sales_Report/
 
 ---
 
-Dashboard  
+Dashboard
+
+### Page 1: Sales Overview
 
 ![Sales Overview](Dashboard/Screenshot%202026-04-19%20015659.png)
 
+### Page 2: Category Analysis
+
 ![Category Analysis](Dashboard/Screenshot%202026-04-19%20015734.png)
+
+### Page 3: Financial Insights
 
 ![Financial Insights](Dashboard/Screenshot%202026-04-19%20015811.png)
 
