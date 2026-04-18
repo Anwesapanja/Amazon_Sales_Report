@@ -145,6 +145,3 @@ This project provides meaningful insights into Amazon sales data and supports da
 - Improved dashboard interactivity  
 
 ---
-
-##  Contact  
-For any queries or suggestions, feel free to connect.
