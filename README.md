@@ -79,17 +79,50 @@ Amazon_Sales_Report/
 
 Dashboard
 
-### Page 1: Sales Overview
+### Page 1: Sales Overview Dashboard 
 
 ![Sales Overview](Dashboard/Screenshot%202026-04-19%20015659.png)
 
-### Page 2: Category Analysis
+**Description:**  
+This page provides a comprehensive overview of overall sales performance.
+
+**Key Insights:**
+- Displays key KPIs such as **Total Sales Amount, Total Quantity, Total Orders, and Average Order Value**  
+- Shows **sales trends over time** using time-series analysis  
+- Highlights **size-wise performance** to identify popular product sizes  
+- Includes **category distribution** for quick business understanding  
+- Tracks **courier status trends** for operational monitoring  
+
+---
+
+### Page 2: Category & Geographic Analysis 
 
 ![Category Analysis](Dashboard/Screenshot%202026-04-19%20015734.png)
 
-### Page 3: Financial Insights
+**Description:**  
+This page focuses on geographical and category-level sales insights.
+
+**Key Insights:**
+- Displays **state-wise and location-based sales distribution** using maps  
+- Shows **shipping activity across different regions**  
+- Provides **category performance by state**  
+- Includes **courier status breakdown**  
+- Visualizes **shipping trends over time**  
+
+---
+
+### Page 3: Customer & Product Insights
 
 ![Financial Insights](Dashboard/Screenshot%202026-04-19%20015811.png)
+
+**Description:**  
+This page provides detailed insights into customer behavior and product performance.
+
+**Key Insights:**
+- Identifies **top customers based on purchase amount**  
+- Shows **category distribution by size**  
+- Displays **total orders and revenue contribution**  
+- Helps analyze **customer purchasing patterns**  
 
 ---
 
