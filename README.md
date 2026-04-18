@@ -77,16 +77,16 @@ Amazon_Sales_Report/
 
 ---
 
-## 📊 Dashboard  
+ Dashboard  
 
-### 📄 Page 1 – Sales Overview Dashboard 
-![Page 1](Dashboard/page1.png)
+### 📄 Page 1 – Sales Overview Dashboard  
+![Sales Overview](Dashboard/page1.png)
 
-### 📄 Page 2 – Category & Product Analysis 
-![Page 2](Dashboard/page2.png)
+### 📄 Page 2 – Category & Product Analysis  
+![Category Analysis](Dashboard/page2.png)
 
-### 📄 Page 3 – Financial & Profit Insights
-![Page 3](Dashboard/page3.png)
+### 📄 Page 3 – Financial & Profit Insights  
+![Financial Insights](Dashboard/page3.png)
 
 ---
 
